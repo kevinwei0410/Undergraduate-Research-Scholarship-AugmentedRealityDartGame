@@ -11,6 +11,12 @@
 
 ---
 
+## 📑 報告文件
+- **📘 組別報告:** [🔗 點此查看](https://drive.google.com/file/d/1PHsOAP4BDYN_QiMHhDTvzju7SSnyQUmw/view?usp=sharing)  
+- **📗 個人報告（後端-神經網路高解析與辨識）:** [🔗 點此查看](https://drive.google.com/file/d/1eAMZauSMhtNTEae4AX0CaJ-Vt5Q4fNzs/view?usp=sharing)
+
+---
+
 ## 🔑 關鍵字
 - **擴增實境 (AR)**
 - **特徵點辨識**
