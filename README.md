@@ -30,6 +30,6 @@
 
 ## 📑 報告文件
 - **📘 組別報告:** [🔗 點此查看](https://drive.google.com/file/d/1PHsOAP4BDYN_QiMHhDTvzju7SSnyQUmw/view?usp=sharing)  
-- **📗 魏Ｏ碩個人報告（後端-神經網路高解析與辨識）:** [🔗 點此查看](https://drive.google.com/file/d/1eAMZauSMhtNTEae4AX0CaJ-Vt5Q4fNzs/view?usp=sharing)
+- **📗 魏Ｏ碩個人報告（後端-神經網路高解析與辨識）:** [🔗 點此查看](https://drive.google.com/file/d/163SisXLV_VEMjBMkJRE_gnN83o3E-wuN/view?usp=sharing)
 
 ---
