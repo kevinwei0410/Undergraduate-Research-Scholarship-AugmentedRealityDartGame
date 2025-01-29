@@ -11,14 +11,25 @@
 
 ---
 
-## 📑 報告文件
-- **📘 組別報告:** [🔗 點此查看](https://drive.google.com/file/d/1PHsOAP4BDYN_QiMHhDTvzju7SSnyQUmw/view?usp=sharing)  
-- **📗 個人報告（後端-神經網路高解析與辨識）:** [🔗 點此查看](https://drive.google.com/file/d/1eAMZauSMhtNTEae4AX0CaJ-Vt5Q4fNzs/view?usp=sharing)
-
----
-
 ## 🔑 關鍵字
 - **擴增實境 (AR)**
 - **特徵點辨識**
 - **即時影像傳輸**
 - **神經網路**
+
+
+---
+
+## 👥 四人分工
+- 🎨 **前端UI 設計與標靶飛鏢建模**（手機 APP、AR 物體建模）:羅Ｏ
+- 🌐 **網路設計**（手機與後端對接、多⼈遊戲對接）:李Ｏ
+- 🏹 **飛鏢物理引擎**（重力計算、飛鏢路徑）：洪Ｏ洋
+- 🧠 **後端神經網路辨識**（包含高解析神經網路、CNN-based特徵擷取網路、LSTM 動作辨識網路):魏Ｏ碩
+
+---
+
+## 📑 報告文件
+- **📘 組別報告:** [🔗 點此查看](https://drive.google.com/file/d/1PHsOAP4BDYN_QiMHhDTvzju7SSnyQUmw/view?usp=sharing)  
+- **📗 魏Ｏ碩個人報告（後端-神經網路高解析與辨識）:** [🔗 點此查看](https://drive.google.com/file/d/1eAMZauSMhtNTEae4AX0CaJ-Vt5Q4fNzs/view?usp=sharing)
+
+---
